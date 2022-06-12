@@ -1,0 +1,37 @@
+Geen tentamen alle opdrachten beoordeling
+
+paradigmas
+ - manual : deel een data set op
+ - library : bepaalde stramien met ghast spark mapreduce
+ - GPU : matrix rekkening paralel kan heel snel
+
+ von neumann
+ alu: arithmetic logic unit (cpu)
+ cache: geheugen van cpu
+ bus: connect de rest
+ geheugen: ram
+ io : disk
+
+operating system
+!) veiligheid
+2) resource sharing
+    process <-> programma
+    python -> interpreter
+        maakt statement -> byte code
+
+python sloom want
+    global interperter lock: elk programma kan niet parallel
+
+virtual memory
+ram wordt in pages verdeelt van 4kb
+
+python kan niet variable delen onder 2 paralel processen
+
+
+fastq
+elke read kan paralel
+lees file bereken per bucket van reads
+Phred = Q = -10*log_10(p)
+
+opdracht 1
+https://teams.microsoft.com/l/message/19:48b8d3169d62409db18052a5a6fb66f9@thread.tacv2/1587326082961?tenantId=a3b39014-7adc-48fa-a114-37c2434dbd69&groupId=5fb5f7e5-10fe-4dfc-8514-27c00822e70c&parentMessageId=1587326082961&teamName=BigDataComputing&channelName=General&createdTime=1587326082961
